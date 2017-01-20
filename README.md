@@ -1,2 +1,3 @@
 # Hello-World
-von Sarah Bracher
+Hey ich bin Sarah Bracher,
+und ich liege krank im Bett.
